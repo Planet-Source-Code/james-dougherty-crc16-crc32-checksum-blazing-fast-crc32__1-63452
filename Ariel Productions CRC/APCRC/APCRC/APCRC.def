@@ -1,0 +1,9 @@
+LIBRARY APCRC
+
+EXPORTS
+	AP_ComputeCRC16_String    @2
+	AP_ComputeCRC16_File      @3
+	AP_ComputeCRC16_ByteArray @4
+	AP_ComputeCRC32_String    @6
+	AP_ComputeCRC32_File      @7
+	AP_ComputeCRC32_ByteArray @8
